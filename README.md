@@ -1,4 +1,6 @@
-<img src="BLEST-ML-logo.png" width="463"/>
+<div style="display: flex; justify-content: center;">
+    <img src="BLEST-ML-logo.png" style="max-width: 100%; height: auto;" />
+</div>
 
 BLEST-ML (BLock size ESTimation through Machine Learning) is a methodology for block size estimation that relies on supervised machine learning techniques.
 
