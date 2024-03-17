@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img src="BLEST-ML-logo.png" style="display: block; margin: 0 auto; max-width: 100%; height: auto; width: 300px;" />
 </div>
 
