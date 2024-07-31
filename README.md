@@ -2,11 +2,8 @@
     <img width="50%" src="BLEST-ML-logo.png">
 </p>
 
-BLEST-ML (BLock size ESTimation through Machine Learning)
-
 ## BLEST-ML for dislib
-This repository contains modules implementing a machine learning-based solution to optimize the execution of dislib algorithms.
-In particular, a stacked classification model is leveraged to predict the most suitable value of the block-size parameter for executing dislib algorithms.
+This repository provides an implementation of **BLEST-ML (BLock size ESTimation through Machine Learning)** tailored to optimizing the execution of dislib's distributed ML algorithms.
 
 Two modules are provided:
 - ***GridSearch***: generate the training dataset for the Machine Learning model, starting from a log of executions of several algorithms on different datasets.
