@@ -1,8 +1,9 @@
 <p align="center" width="100%">
     <img width="50%" src="BLEST-ML-logo.png">
+    **BLEST-ML (BLock size ESTimation through Machine Learning)**
 </p>
 
-**BLEST-ML (BLock size ESTimation through Machine Learning)** is a methodology for block size estimation that relies on supervised machine learning techniques.
+
 
 ## BLEST-ML for dislib
 This repository contains modules implementing a machine learning-based solution to optimize the execution of dislib algorithms.
