@@ -29,4 +29,4 @@ The ***config.json*** file contains all the configuration parameters, listed in 
 
 
 ## How to cite
-R. Cantini, F. Marozzo, A. Orsino, D. Talia, P. Trunfio, R. M. Badia, J.Ejarque, F. Vàzquez-Novoa  "Block size estimation for data partitioning in HPC applications using machine learning techniques". 2023
+*Riccardo Cantini, Fabrizio Marozzo, Alessio Orsino, Domenico Talia, Paolo Trunfio, Rosa M. Badia, Jorge Ejarque, Fernando V. Novoa (2024). Block size estimation for data partitioning in HPC applications using machine learning techniques. Journal of Big Data, vol. 11, no. 1, 2024.*
