@@ -1,10 +1,8 @@
 <p align="center" width="100%">
     <img width="50%" src="BLEST-ML-logo.png">
-</br>
-<b>BLEST-ML (BLock size ESTimation through Machine Learning)</b>
 </p>
 
-
+BLEST-ML (BLock size ESTimation through Machine Learning)
 
 ## BLEST-ML for dislib
 This repository contains modules implementing a machine learning-based solution to optimize the execution of dislib algorithms.
